@@ -2,7 +2,7 @@
 
 This repository contains the source code for my personal 3D portfolio built with React, TypeScript, Three.js, React Three Fiber, and GSAP. It includes animated page sections, a character scene, custom cursor interactions, and smooth transitions designed for a modern portfolio experience.
 
-Live site: [https://aniketrajak.vercel.app](https://aniketrajak.vercel.app)
+Live site: [https://aniketrajak-9bbk.vercel.app](https://aniketrajak-9bbk.vercel.app)
 
 GitHub: [https://github.com/aniket-rajak/aniketrajak](https://github.com/aniket-rajak/aniketrajak)
 
