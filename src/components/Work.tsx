@@ -32,6 +32,13 @@ const projects = [
     image: "/images/riddhima-fashion.png",
     link: "https://riddhimafashion.in/",
   },
+  {
+    title: "AVERO Ecommerce",
+    category: "Headless Ecommerce Website",
+    tools: "WordPress (CMS), WooCommerce, Next.js, REST API, Hostinger, Vercel",
+    image: "/images/Avero.png",
+    link: "https://avero-amber.vercel.app/",
+  },
 ];
 
 const Work = () => {
